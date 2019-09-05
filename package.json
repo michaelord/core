@@ -8,7 +8,10 @@
     "type": "git",
     "url": "http://github.com/michaelord/core.git"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "author": "michaelord",
+  "keywords": [],
+  "dependencies": {
     "components/gatsby": "http://github.com/michaelord/gatsby.git",
     "components/layout": "http://github.com/michaelord/layout.git",
     "components/navigation": "http://github.com/michaelord/navigation.git",
@@ -23,7 +26,5 @@
     "../../navigation": "?????",
     "components/notification": "http://github.com/michaelord/notification.git",
     "react-toast-notifications": "?????"
-  },
-  "author": "michaelord",
-  "keywords": []
+  }
 }
