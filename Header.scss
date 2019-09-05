@@ -1,0 +1,24 @@
+.foo {
+	display: flex;
+	align-items: center;
+
+	justify-content: space-between;
+
+	&__logo {
+		line-height: 1;
+		text-decoration: none;
+		background: #000;
+		color: #fff;
+		padding: 16px;
+		margin-right: var(--gutter);
+		display: inline-block;
+
+		img {
+			display: block;
+		}
+	}
+
+	&__nav {
+		// color: var(--clr-primary);
+	}
+}
