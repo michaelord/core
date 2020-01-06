@@ -1,0 +1,11 @@
+---
+title: Footer
+tags : ["all", "core", "wip"]
+category: "Undefined"
+logo: "./thumbnail.jpg"
+icon: '<svg viewBox="0 0 260 180" xmlns="http://www.w3.org/2000/svg" fill="none"><rect width="260" height="180" fill="var(--color-bg)"></rect><rect x="10" y="30" width="240" height="120" fill="var(--color-contrast-lower)"></rect><circle cx="30" cy="51" r="8" fill="var(--color-primary)"></circle><rect x="22" y="123" width="216" height="2" fill="var(--color-contrast-low)"></rect><rect x="22" y="134" width="41" height="6" fill="var(--color-contrast-medium)"></rect><rect x="84" y="46" width="41" height="8" fill="var(--color-contrast-high)"></rect><rect x="84" y="60" width="35" height="5" fill="var(--color-contrast-medium)"></rect><rect x="84" y="72" width="44" height="5" fill="var(--color-contrast-medium)"></rect><rect x="84" y="84" width="26" height="5" fill="var(--color-contrast-medium)"></rect><rect x="84" y="96" width="41" height="5" fill="var(--color-contrast-medium)"></rect><rect x="139" y="46" width="41" height="8" fill="var(--color-contrast-high)"></rect><rect x="139" y="60" width="35" height="5" fill="var(--color-contrast-medium)"></rect><rect x="139" y="72" width="44" height="5" fill="var(--color-contrast-medium)"></rect><rect x="139" y="84" width="26" height="5" fill="var(--color-contrast-medium)"></rect><rect x="139" y="96" width="41" height="5" fill="var(--color-contrast-medium)"></rect><rect x="194" y="46" width="41" height="8" fill="var(--color-contrast-high)"></rect><rect x="194" y="60" width="35" height="5" fill="var(--color-contrast-medium)"></rect><rect x="194" y="72" width="44" height="5" fill="var(--color-contrast-medium)"></rect><rect x="194" y="84" width="26" height="5" fill="var(--color-contrast-medium)"></rect><rect x="194" y="96" width="41" height="5" fill="var(--color-contrast-medium)"></rect><circle cx="233" cy="137" r="5" fill="var(--color-contrast-medium)"></circle><circle cx="217" cy="137" r="5" fill="var(--color-contrast-medium)"></circle><circle cx="201" cy="137" r="5" fill="var(--color-contrast-medium)"></circle></svg>'
+published : true
+---
+import { Playground, PlaygroudCode } from 'components/styleguide';
+
+[TODO]

@@ -1,0 +1,11 @@
+---
+title: Header
+tags : ["all", "core", "wip"]
+category: "Undefined"
+logo: "./thumbnail.jpg"
+icon: '<svg viewBox="0 0 260 180" xmlns="http://www.w3.org/2000/svg" fill="none"><rect x="10" y="68" width="240" height="44" fill="var(--color-contrast-lower)"></rect><rect x="124" y="87" width="32" height="6" fill="var(--color-contrast-medium)"></rect><rect x="166" y="87" width="32" height="6" fill="var(--color-primary)"></rect><rect x="208" y="87" width="32" height="6" fill="var(--color-contrast-medium)"></rect><circle cx="27" cy="90" r="8" fill="var(--color-contrast-high)"></circle></svg>'
+published : true
+---
+import { Playground, PlaygroudCode } from 'components/styleguide';
+
+[TODO]

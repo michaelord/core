@@ -1,30 +1,31 @@
 {
-  "name": "core",
-  "private": true,
-  "description": "...",
-  "version": "0.1.0",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/michaelord/core.git"
-  },
-  "devDependencies": {},
-  "author": "michaelord",
-  "keywords": [],
-  "dependencies": {
-    "components/gatsby": "http://github.com/michaelord/gatsby.git",
-    "components/layout": "http://github.com/michaelord/layout.git",
-    "components/navigation": "http://github.com/michaelord/navigation.git",
-    "components/accordion": "http://github.com/michaelord/accordion.git",
-    "components/modal": "http://github.com/michaelord/modal.git",
-    "gatsby": "http://github.com/michaelord/gatsby.git",
-    "components/pre-header": "http://github.com/michaelord/pre-header.git",
-    "blocks": "?????",
-    "components/cookie-policy": "http://github.com/michaelord/cookie-policy.git",
-    "components/types": "http://github.com/michaelord/types.git",
-    "react-helmet": "^5.2.1",
-    "../../navigation": "?????",
-    "components/notification": "http://github.com/michaelord/notification.git",
-    "react-toast-notifications": "?????"
-  }
+	"name": "core",
+	"private": true,
+	"description": "...",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/michaelord/core.git"
+	},
+	"devDependencies": {},
+	"author": "michaelord",
+	"keywords": [],
+	"dependencies": {
+		"components/accordion": "http://github.com/michaelord/accordion.git",
+		"components/editable": "http://github.com/michaelord/editable.git",
+		"components/form": "http://github.com/michaelord/form.git",
+		"components/gatsby": "http://github.com/michaelord/gatsby.git",
+		"components/icon": "http://github.com/michaelord/icon.git",
+		"components/layout": "http://github.com/michaelord/layout.git",
+		"components/libs": "http://github.com/michaelord/libs.git",
+		"components/navigation": "http://github.com/michaelord/navigation.git",
+		"components/theme": "http://github.com/michaelord/theme.git",
+		"components/types": "http://github.com/michaelord/types.git",
+		"components/events": "http://github.com/michaelord/events.git",
+		"components/modal": "http://github.com/michaelord/modal.git",
+		"components/ui": "http://github.com/michaelord/ui.git",
+		"components/content": "http://github.com/michaelord/content.git",
+		"content": "http://github.com/michaelord/content.git"
+	}
 }
